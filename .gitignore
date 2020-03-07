@@ -1,0 +1,17 @@
+# Gradle:
+.idea/gradle.xml
+.idea/libraries
+
+# User-specific stuff:
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+
+/out/
+*.iws
+*.iml
+modules.xml
+.idea/
+.gradle/
