@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.aor.numbers.ListFilterTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-03-15T13:15:14" hostname="DESKTOP-JVK809C" time="0.026">
+  <properties/>
+  <testcase name="positiveFilter1" classname="com.aor.numbers.ListFilterTest" time="0.02"/>
+  <testcase name="positiveFilter2" classname="com.aor.numbers.ListFilterTest" time="0.002"/>
+  <testcase name="divisionFilter1" classname="com.aor.numbers.ListFilterTest" time="0.002"/>
+  <testcase name="divisionFilter2" classname="com.aor.numbers.ListFilterTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
