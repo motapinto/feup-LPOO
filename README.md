@@ -1,6 +1,6 @@
 # LPOO
 
-**2019/2020** - 3rd Year, 2nd Semester\
+**2019/2020** - 2rd Year, 2nd Semester\
 **Course:** [Laboratório de Programação Orientada por Objectos](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436442) | [*Object Oriented Programming Laboratory*](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436442)
 
 |Project Name|Description|
